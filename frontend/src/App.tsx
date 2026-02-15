@@ -20,7 +20,7 @@ function App() {
               <FlaskConical className="h-6 w-6 text-primary" />
             </div>
             <span className="text-xl font-bold bg-gradient-to-r from-slate-900 to-slate-600 bg-clip-text text-transparent">
-              ChemFlow<span className="text-primary">.ai</span>
+              ChemFlow
             </span>
           </div>
           <div className="flex gap-4">
