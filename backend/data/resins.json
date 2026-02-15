@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Anion Exchange",
+        "name": "Q Sepharose",
+        "ligand_charge": "Positive",
+        "binds_protein_charge": "Negative",
+        "target_ph_logic": "pI + 1.0"
+    },
+    {
+        "type": "Cation Exchange",
+        "name": "SP Sepharose",
+        "ligand_charge": "Negative",
+        "binds_protein_charge": "Positive",
+        "target_ph_logic": "pI - 1.0"
+    }
+]

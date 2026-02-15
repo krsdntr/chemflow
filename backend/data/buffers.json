@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tris",
+    "name": "Tris-HCl",
+    "pka_25c": 8.06,
+    "useful_range": [
+      7.0,
+      9.0
+    ],
+    "molecular_weight_base": 121.14,
+    "name_base": "Tris Base",
+    "molecular_weight_acid": 157.6,
+    "name_acid": "Tris HCl",
+    "temperature_coeff": -0.028,
+    "notes": "Primary amine, interferes with Bradford."
+  },
+  {
+    "id": "mes",
+    "name": "MES",
+    "pka_25c": 6.10,
+    "useful_range": [
+      5.5,
+      6.7
+    ],
+    "molecular_weight_base": 217.22,
+    "name_base": "MES Sodium Salt",
+    "molecular_weight_acid": 195.22,
+    "name_acid": "MES Free Acid",
+    "temperature_coeff": -0.011,
+    "notes": "Good for Cation Exchange."
+  },
+  {
+    "id": "hepes",
+    "name": "HEPES",
+    "pka_25c": 7.55,
+    "useful_range": [
+      6.8,
+      8.2
+    ],
+    "molecular_weight_base": 260.29,
+    "name_base": "HEPES Sodium Salt",
+    "molecular_weight_acid": 238.30,
+    "name_acid": "HEPES Free Acid",
+    "temperature_coeff": -0.014,
+    "notes": "Zwitterionic buffer."
+  },
+  {
+    "id": "phosphate",
+    "name": "Phosphate",
+    "pka_25c": 7.20,
+    "useful_range": [
+      5.8,
+      8.0
+    ],
+    "molecular_weight_base": 141.96,
+    "name_base": "Sodium Phosphate Dibasic",
+    "molecular_weight_acid": 119.98,
+    "name_acid": "Sodium Phosphate Monobasic",
+    "temperature_coeff": -0.0028,
+    "notes": "Common biological buffer."
+  }
+]
