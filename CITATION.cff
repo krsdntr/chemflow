@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Krisdiantoro"
+  given-names: "User"
+title: "ChemFlow: A Serverless Framework for Reproducible Protein Buffer Formulation"
+version: 1.0.0
+date-released: 2026-02-15
+url: "https://github.com/krsdntr/chemflow"
+license: "MIT"
+keywords:
+  - bioinformatics
+  - protein-purification
+  - buffer-formulation
+  - typescript
+  - react
+  - serverless
